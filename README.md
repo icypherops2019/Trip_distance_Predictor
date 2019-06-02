@@ -15,12 +15,6 @@ is predicted via input features, such as driving_style, avg_speed and route_type
 2) Multilayer Perceptron (MLP)
 3) Random Forest
 
-### Input data
-Dataset crawler (```vehicle_crawler.py```) and 
-an example result (```volkswagen_e_golf.csv```) in csv file can be found here:
-https://github.com/armiro/crawlers/tree/master/SpritMonitor-Crawler 
-
-
 ### Run the code
 First, change the dataset path in both the files. Then,
 * run the ```driving_range_prediction.py``` file to predict the trip distance
